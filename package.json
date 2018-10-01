@@ -1,6 +1,9 @@
 {
   "name": "devcon",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.4.1",
+  }
   "description": "social site",
   "main": "server.js",
   "scripts": {
