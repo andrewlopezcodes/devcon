@@ -1,9 +1,6 @@
 {
   "name": "devcon",
   "version": "1.0.0",
-  "engines": {
-    "node": "10.4.1",
-  }
   "description": "social site",
   "main": "server.js",
   "scripts": {
@@ -20,6 +17,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
+    "classnames": "^2.2.6",
     "concurrently": "^4.0.1",
     "express": "^4.16.3",
     "gravatar": "^1.6.0",
@@ -31,5 +29,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewlopezcodes/devcon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewlopezcodes/devcon/issues"
+  },
+  "homepage": "https://github.com/andrewlopezcodes/devcon#readme"
 }
