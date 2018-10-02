@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "classNames": "^2.2.6",
     "classnames": "^2.2.6",
     "jwt-decode": "^2.2.0",
     "moment": "^2.22.2",
